@@ -2,7 +2,6 @@ Pour cloner un repository distant :
 
 ->$git clone [ADRESSE]
 
-CONFLIT MAIN
 
 Pour push sur le repository distant :
 
@@ -33,3 +32,4 @@ Pour se déplacer sur une autre branche :
 Pour créer une nouvelle branche et se déplacer dessus :
 
 ->$git checkout -b [NOM BRANCHE]
+
